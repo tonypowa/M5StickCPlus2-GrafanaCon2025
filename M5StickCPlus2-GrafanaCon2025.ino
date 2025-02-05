@@ -15,7 +15,7 @@
 // Your local WiFi details
 // Your Grafana Cloud details
 // ===================================================
-#include "config.h.home.h"
+#include "config.h"
 #include "utility.h"
 
 // ===================================================
